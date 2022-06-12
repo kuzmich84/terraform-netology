@@ -36,3 +36,4 @@ terraform.rc
 .idea
 variables.tf
 key.json
+meta.txt
